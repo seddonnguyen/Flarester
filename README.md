@@ -44,6 +44,7 @@ Flarester's mission is to spark casual networking, ignite new friendships, and e
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
+### Installation
 The application is built using Ruby version 2.6.1. Once you have cloned the repository, please navigate to the application's directory and run the following commands:
 
 - `bundle install`: This command installs the required gems and dependencies for the application to function correctly.
@@ -55,3 +56,9 @@ The application is built using Ruby version 2.6.1. Once you have cloned the repo
 To run the application, type `rails s` into your command line (from the application's directory) and hit return. This command starts the application server, and you should be able to use the application.
 
 Note that the application has a test suite you can run using RSpec. To install RSpec, type `rails g rspec:install` into your command line after cloning the repository. Once installed, type `rspec` into the command line and hit return to run the test suite.
+
+## License
+This project is licensed under the MIT License, making it free to use and modify. See the [LICENSE](https://github.com/seddonnguyen/Flarester/blob/main/LICENSE) file for details.
+
+## Contact
+Your engagement is important to me. Please feel free to reach out with any questions or feedback by opening an issue on the repository. Your input is highly valued.
