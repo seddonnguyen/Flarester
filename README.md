@@ -55,19 +55,3 @@ The application is built using Ruby version 2.6.1. Once you have cloned the repo
 To run the application, type `rails s` into your command line (from the application's directory) and hit return. This command starts the application server, and you should be able to use the application.
 
 Note that the application has a test suite you can run using RSpec. To install RSpec, type `rails g rspec:install` into your command line after cloning the repository. Once installed, type `rspec` into the command line and hit return to run the test suite.
-
-
------------------------------------------------------------------------------------------------------------------------
-
-We're thrilled to announce that our application is now available on Heroku! With our app, you can save a considerable amount of time, and you can access it by clicking on the link provided below:
-
-https://powerful-eyrie-94140.herokuapp.com/
-
-We want to express our gratitude to the following sources for their incredible contributions:
-
-- The login page image is courtesy of https://unsplash.com/. It's a beautiful image representing our app's sleek, modern design.
-- We used Racing Sans One for our logo, which can be found at https://fonts.google.com/. It's a unique font that helps our logo stand out.
-
-Thank you for stopping by our page! We hope you find our app helpful and user-friendly. Feel free to leave any feedback you have. We're always looking for ways to improve.
-
-As Patrick McKenzie once said, "Every great developer you know got there by solving problems they were unqualified to solve until they did it." We're confident that we're on the right path and can't wait to see where this journey takes us.
