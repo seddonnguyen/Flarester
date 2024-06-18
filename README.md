@@ -1,5 +1,3 @@
-# READ ME
-
 *Flarester* is a versatile and dynamic platform that lets users create or join events in their local area. The platform operates similarly to the popular "Meetup" service but with a unique twist: it caters to events scheduled within the next two hours. This feature ensures that users can quickly and easily engage with timely and relevant events.
 
 Once an event is created, it is automatically added to the local event list, providing visibility to all nearby users. This feature helps users connect to their local community and discover new events or experiences. Moreover, once the event's scheduled time has elapsed, it is automatically removed from the list, ensuring that the platform remains up-to-date and only shows relevant events to its users.
